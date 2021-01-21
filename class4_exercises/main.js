@@ -20,4 +20,5 @@ Object.size = function (obj) {
 var size = Object.size(car);
 console.log(size);
 
+// Exercise 2, but using .length //
 console.log(Object.keys(car).length);
